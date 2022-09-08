@@ -1,0 +1,67 @@
+begin,end,leftContext,surface,rightContext,entityNum,entityLabel,entityGroup
+2,869,,"1/2
+  *
+  *
+
+  Restaurant in Mitte sucht einen engagierten und teamfähigen Koch!
+
+  Weinbergsweg 26, 10119 Berlin - Prenzlauer Berg
+  01.03.2020
+  Anzeigennr.: 1336388619
+
+  Details
+
+  * Art Koch/Köchin
+  * Berufserfahrung Mit Berufserfahrung
+
+  Beschreibung
+
+  Hey, wir suchen dich. Nettes Team sucht einen engagierten, freundlichen und teamfähigen Koch. Gerne auch Jungkoch. Wir bieten deutsche Küche, tolle Teller und haben richtig Lust, unsere Gäste zu begeistern. Wenn du interessiert bist, schick uns gerne per E-Mail ein Bild von dir, einen kurzen Lebenslauf und wir melden uns sofort bei dir! Danke! Wir freuen uns!
+  *
+  * Zur Merkliste hinzufügen
+
+  Fehler
+  * JO Jo Ofner
+  Gewerblicher Nutzer
+  Aktiv seit 05.12.2011
+  * 01749... anzeigen
+  __________________________________________________
+
+  * 15 Anzeigen online
+  * Folgen",,0,Stellenanzeige,false
+2,15,,"1/2
+  *
+  *",Restaurant in Mitte sucht eine,1,Irrelevantes (nicht aus 1-5),false
+21,86,"1/2
+  *
+  *",Restaurant in Mitte sucht einen engagierten und teamfähigen Koch!,"Weinbergsweg 26, 10119 Berlin ",2,Unternehmensvorstellung,false
+92,180,agierten und teamfähigen Koch!,"Weinbergsweg 26, 10119 Berlin - Prenzlauer Berg
+  01.03.2020
+  Anzeigennr.: 1336388619","Details
+
+  * Art Koch/Köchin",3,Kontakt und Formalia,false
+186,257,"020
+  Anzeigennr.: 1336388619","Details
+
+  * Art Koch/Köchin
+  * Berufserfahrung Mit Berufserfahrung","Beschreibung
+
+  Hey, wir suc",4,Anforderungen,false
+263,394,serfahrung Mit Berufserfahrung,"Beschreibung
+
+  Hey, wir suchen dich. Nettes Team sucht einen engagierten, freundlichen und teamfähigen Koch. Gerne auch Jungkoch",". Wir bieten deutsche Küche, t",5,Anforderungen,false
+396,486,gen Koch. Gerne auch Jungkoch.,"Wir bieten deutsche Küche, tolle Teller und haben richtig Lust, unsere Gäste zu begeistern",". Wenn du interessiert bist, s",6,Angebot an den Bewerber,false
+488,642,"t, unsere Gäste zu begeistern.","Wenn du interessiert bist, schick uns gerne per E-Mail ein Bild von dir, einen kurzen Lebenslauf und wir melden uns sofort bei dir! Danke! Wir freuen uns!","*
+  * Zur Merkliste hinzufüge",7,Kontakt und Formalia,false
+646,869,ei dir! Danke! Wir freuen uns!,"*
+  * Zur Merkliste hinzufügen
+
+  Fehler
+  * JO Jo Ofner
+  Gewerblicher Nutzer
+  Aktiv seit 05.12.2011
+  * 01749... anzeigen
+  __________________________________________________
+
+  * 15 Anzeigen online
+  * Folgen",,8,Irrelevantes (nicht aus 1-5),false
