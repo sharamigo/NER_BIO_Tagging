@@ -47,4 +47,21 @@ The ner_dataset.csv includes the BIO-Tagged words from the given input data. Thi
 
 Go to the folder in which the file ***ner_model.py*** is saved (e.g. with a GIT cmd/powershell or other cmdlet).
 
-Type in `py ner_model.py`
+Type in `python ner_model.py`  and the ML-model should start up. Wait a few seconds (maybe up to a minute or so).
+
+The upcoming warnings can be ignored.
+
+## System requirements:
+- Windows (10 or 11) or Linux or MacOS
+- Python Version 3.7.9
+- Python-Libraries:
+-- nltk
+-- matplotlib
+-- numpy
+-- os
+-- csv
+-- pandas
+-- keras (here: Version 2.2.4)
+-- tensorflow (here: Version 1.13.1)
+- Java (at least 1.8)
+- also: Stanford NE-Recognizer (Version 4.2.0)
