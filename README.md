@@ -41,3 +41,10 @@ project
 **output-Folder** Contains a model_visualization generated from the Python-Script (ner_model.py) which lists words from the testing-data.
 
 The ner_dataset.csv includes the BIO-Tagged words from the given input data. This is important for the training-process of the model.
+
+
+## How to run the script:
+
+Go to the folder in which the file ***ner_model.py*** is saved (e.g. with a GIT cmd/powershell or other cmdlet).
+
+Type in `py ner_model.py`
