@@ -55,13 +55,13 @@ The upcoming warnings can be ignored.
 - Windows (10 or 11) or Linux or MacOS
 - Python Version 3.7.9
 - Python-Libraries:
--- nltk
--- matplotlib
--- numpy
--- os
--- csv
--- pandas
--- keras (here: Version 2.2.4)
--- tensorflow (here: Version 1.13.1)
+    - nltk
+    - matplotlib
+    - numpy
+    - os
+    - csv
+    - pandas
+    - keras (here: Version 2.2.4)
+    - tensorflow (here: Version 1.13.1)
 - Java (at least 1.8)
 - also: Stanford NE-Recognizer (Version 4.2.0)
