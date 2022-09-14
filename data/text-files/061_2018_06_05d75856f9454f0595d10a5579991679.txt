@@ -1,0 +1,33 @@
+  (Senior) Consultant (w/m) SAP ABAP
+
+  Berlin
+
+  FULL_TIME
+
+  Porsche
+
+  2018-05-31
+
+  sie können für eines der top-automobilunternehmen arbeiten.
+  oder für viele - mit mhp.
+
+  wir suchen sie als:
+  (senior) consultant (w/m) sap abap
+
+  * kennziffer: mhp-d-0-e
+  * einstiegsart: professionals
+  * einsatzort:
+  ludwigsburg, münchen
+  * gesellschaft:
+  mhp - a porsche company
+
+  aufgaben
+  sap und abap-softwareentwicklung gehören für sie zusammen wie geschwindigkeit und porsche. im übertragenen sinne sorgen sie als trusted advisor mit hilfe von kundenspezifischen softwareanpassungen dafür, dass die sap systeme unserer kunden die nötigen ps auf die straße bringen.
+  * konzeption und technische realisierung von innovativen it-beratungslösungen mit sap abap unter berücksichtigung der individuellen kundenanforderungen
+  * aktive mitarbeit in komplexen und innovativen sap entwicklungsprojekten als technischer (teil-) projektleiter
+  * betreuung und weiterentwicklung der sap systemlandschaft unter einsatz von sap abap oo programmierung sowie erarbeitung von technischen sap lösungskonzepten
+  * gestaltung und (weiter-)entwicklung von frontend-oberflächen und webanwendungen mit modernsten tools (sap ui5, webdynpro) sowie betreuung und pflege komplexer schnittstellen (idoc, bapi, ale, rfc, edi)
+  * sicherstellung eines itil-konformen betriebs, insbesondere incident-, problem- und changekoordination
+  * service management (go-live unterstützung) remote bzw. bei unseren kunden vor ort unter einhaltung der service level agreements (slas)
+  * mitarbeit in agilen devops teams mit vielseitigen aufgaben im gesamten projekt- und software-lifecycle unserer kunden
+  * begleitung des gesamten sap projektzyklus vom blueprint über das feinkonzept, migration, testing, implementierung und technischer after-go-live-support
